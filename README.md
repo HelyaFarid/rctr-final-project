@@ -1,12 +1,17 @@
 # React Part Time Class Final Project
 
+nearby Therapist
+
 ## Project Links
 
 - [CodeSandbox Link]()
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+nearby Therapist, a website to find nearest and top rated therapist. visitors have the ability to rate and comment therapists.
+therapists will be filtered by location, distance, skill, support.
+Result will be shown on google map API.
+Top 5 therapists and Top 4-6 feedbacks will be shown in the first page
 
 
 ## Wireframes
@@ -17,20 +22,16 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - [add link to your react architecture]()
 
 
-### MVP/PostMVP - 5min
-
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
-
 #### MVP EXAMPLE
 - Home page with several sections about my site
-- Products page that will render product info pulled in via an API  
-- Ability for user to favorite a product
-- Ability for user to add product to shopping cart
+- Log in/sign up button (for rating and commenting)
+- Ability for user to add therapist's details to myList
+- 
 
 #### PostMVP EXAMPLE
 
-- Add Stripe or Shopify Pay for checkout
-- Caputre users email in a form and send an automated response
+- Add Profile page for therapist could be a blog
+- Subscription button for marketing
 - Build the app for mobile/tablet/desktop
 
 ## API
