@@ -33,6 +33,7 @@ Upload images of wireframe to cloudinary and add the link here with a descriptio
 - Add Profile page for therapist could be a blog
 - Subscription button for marketing
 - Build the app for mobile/tablet/desktop
+- Add Event section in first page for advertisement
 
 ## API
 
@@ -52,11 +53,13 @@ Based on the initial logic defined in the previous sections try and breakdown th
 | --- | :---: |  
 | App | This will make the initial data pull and include React Router| 
 | Header | This will render the header include the nav | 
-| Footer | This will render the header include the nav | 
+| Footer | This will render the copyright bar | 
+| Feedback | This will show comment and name and image |
+| Therapist | This will render the therapist details |
 
 
 ## Additional Libraries
- Use this section to list all supporting libraries and thier role in the project such as Axios, ReactStrap, D3, etc. 
+ReactStrap, D3
 
 ## Code Snippet
 
