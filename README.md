@@ -4,7 +4,7 @@ nearby Therapist
 
 ## Project Links
 
-- [https://codesandbox.io/s/fervent-haslett-5ebj1i?file=/src/index.js]()
+- [https://codesandbox.io/s/fervent-haslett-5ebj1i]()
 
 ## Project Description
 
